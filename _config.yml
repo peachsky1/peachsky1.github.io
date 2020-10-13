@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:iamjason@bu.edu"
+      #url: "mailto:iamjason@bu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -109,7 +109,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin-square"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/json-lee/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
